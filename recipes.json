@@ -1,64 +1,66 @@
 {
-    {
-        "name": "burritos",
-        "timeLength": 4,
-        "ingredients": {
-            {"name": "chicken", "amount": 1.0},
-            {"name": "red pepper", "amount": 1.0},
-            {"name": "onion", "amount": 0.5},
-            {"name": "rice box kit", "amount": 1.0},
-            {"name": "wraps", "amount": 2.0}
-        }
-    },
+    "recipes": [
+        {
+            "name": "burritos",
+            "timeLength": 4,
+            "ingredients":  [
+                {"name": "chicken", "amount": 1.0},
+                {"name": "red pepper", "amount": 1.0},
+                {"name": "onion", "amount": 0.5},
+                {"name": "rice box kit", "amount": 1.0},
+                {"name": "wraps", "amount": 2.0}
+            ]
+        },
 
-    {
-        "name": "cheesy pasta",
-        "timeLength": 8,
-        "ingredients": {
-            {"name": "pasta", "amount": 1},
-            {"name": "cheese", "amount": 1},
-            {"name": "butter", "amount": 1},
-            {"name": "plain flour", "amount": 1}
-        }
-    },
+        {
+            "name": "cheesy pasta",
+            "timeLength": 8,
+            "ingredients": [
+                {"name": "pasta", "amount": 1},
+                {"name": "cheese", "amount": 1},
+                {"name": "butter", "amount": 1},
+                {"name": "plain flour", "amount": 1}
+            ]
+        },
 
-    {
-        "name": "spaghetti bolognese",
-        "timeLength": 3,
-        "ingredients": {
-            {"name": "minced beef", "amount": 1},
-            {"name": "bolognese sauce", "amount": 1.0},
-            {"name": "spaghetti", "amount": 1},
-            {"name": "parmesan", "amount": 1}
-        }
-    },
+        {
+            "name": "spaghetti bolognese",
+            "timeLength": 3,
+            "ingredients": [
+                {"name": "minced beef", "amount": 1},
+                {"name": "bolognese sauce", "amount": 1.0},
+                {"name": "spaghetti", "amount": 1},
+                {"name": "parmesan", "amount": 1}
+            ]
+        },
 
-    {
-        "name": "homemade burgers",
-        "timeLength": 3,
-        "ingredients": {
-            {"name": "minced beef", "amount": 1},
-            {"name": "onion", "amount": 1},
-            {"name": "cheese", "amount": 1},
-            {"name": "worcestershire sauce", "amount": 1},
-            {"name": "breadcrumbs", "amount": 1},
-            {"name": "salt", "amount": 1},
-            {"name": "egg", "amount": 1},
-            {"name": "bread rolls", "amount": 1}
-        }
-    },
+        {
+            "name": "homemade burgers",
+            "timeLength": 3,
+            "ingredients": [
+                {"name": "minced beef", "amount": 1},
+                {"name": "onion", "amount": 1},
+                {"name": "cheese", "amount": 1},
+                {"name": "worcestershire sauce", "amount": 1},
+                {"name": "breadcrumbs", "amount": 1},
+                {"name": "salt", "amount": 1},
+                {"name": "egg", "amount": 1},
+                {"name": "bread rolls", "amount": 1}
+            ]
+        },
 
-    {
-        "name": "kebabs",
-        "timeLength": 4,
-        "ingredients": {
-            {"name": "chicken", "amount": 1},
-            {"name": "halloumi", "amount": 1},
-            {"name": "red pepper", "amount": 1},
-            {"name": "orange pepper", "amount": 1},
-            {"name": "pineapple", "amount": 1},
-            {"name": "nando's peri peri sauce", "amount": 1},
-            {"name": "mushrooms", "amount": 1}
+        {
+            "name": "kebabs",
+            "timeLength": 4,
+            "ingredients": [
+                {"name": "chicken", "amount": 1},
+                {"name": "halloumi", "amount": 1},
+                {"name": "red pepper", "amount": 1},
+                {"name": "orange pepper", "amount": 1},
+                {"name": "pineapple", "amount": 1},
+                {"name": "nando's peri peri sauce", "amount": 1},
+                {"name": "mushrooms", "amount": 1}
+            ]
         }
-    }
+    ]
 }
