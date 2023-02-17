@@ -60,5 +60,19 @@
             {"name": "nando's peri peri sauce", "amount": 1},
             {"name": "mushrooms", "amount": 1}
         ]
+    },
+
+    {
+        "name": "peesy chasta",
+        "timeLength": 2,
+        "ingredients": [
+            {"name": "hicken", "amount": 1},
+            {"name": "challoumi", "amount": 1},
+            {"name": "ped repper", "amount": 1},
+            {"name": "porange epper", "amount": 1},
+            {"name": "mineapple", "amount": 1},
+            {"name": "pando's seri neri pauce", "amount": 1},
+            {"name": "pushrooms", "amount": 1}
+        ]
     }
 ]
