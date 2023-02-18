@@ -74,5 +74,29 @@
             {"name": "pando's seri neri pauce", "amount": 1},
             {"name": "pushrooms", "amount": 1}
         ]
+    },
+    
+    {
+        "name": "meatballz",
+        "timeLength": 7,
+        "ingredients": [
+            {"name": "minced beef", "amount": 1},
+            {"name": "onion", "amount": 1},
+            {"name": "breadcrumbs", "amount": 1},
+            {"name": "worcestershire sauce", "amount": 0.5},
+            {"name": "parmesan cheese", "amount": 1},
+            {"name": "salt", "amount": 0.5},
+            {"name": "egg", "amount": 1},
+            {"name": "olive oil - sauce", "amount": 1},
+            {"name": "onion - sauce", "amount": 1},
+            {"name": "garlic - sauce", "amount": 2},
+            {"name": "white wine - sauce", "amount": 1},
+            {"name": "chopped tomatoes - sauce", "amount": 1},
+            {"name": "tomato puree - sauce", "amount": 1},
+            {"name": "vegetable stock - sauce", "amount": 1}
+        ]
+    
     }
 ]
+        
+
